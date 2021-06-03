@@ -1,0 +1,24 @@
+# Regression Project Proposal
+### Question/need:
+- What is the framing question of your analysis, or the purpose of the model/system you plan to build?
+The purpose of this model will be to analyze data such as box office revenue, budget, rating, etc. of movies that are part of franchises to determine how future continuations of movie franchises will fare.
+- Who benefits from exploring this question or building this model/system?
+Movie producers, when deciding whether to continue an existing franchise in some capacity.
+### Data Description:
+- What dataset(s) do you plan to use, and how will you obtain the data?
+https://www.the-numbers.com/movies/franchises/sort/World
+https://www.boxofficemojo.com/franchise/?ref_=bo_lnav_hm_shrt (I'll likely use this data set, as you can click each franchise to get another table with the details of every movie within that franchise.)
+https://www.boxofficemojo.com/genre/sg3353276673/?ref_=bo_gs_table_26
+I'll use the given data tables from these websites and acquire them through web-scraping. I may attempt to find some data specifically on horror movies later on, but I'll run that by you if I do!
+- What is an individual sample/unit of analysis in this project? What characteristics/features do you expect to work with?
+An individual unit of analysis for this project is one film and its associated features. Those features will include: Total Gross, Opening Gross, Theaters, Rating, Distributor, Release Date, Years Lasted, and Runtime at least.
+- If modeling, what will you predict as your target?
+The model itself will take data from all genres of movie, but I'm particularly interested in using it to predict how future reboots and possible sequels of horror movies will fare in the market. (If that doesn't work out, I could also just apply it generally to possible sequels/reboots of any genre.)
+### Tools:
+- How do you intend to meet the tools requirement of the project?
+I plan to use BeautifulSoup to webscrape.
+- Are you planning in advance to need or use additional tools beyond those required?
+No.
+### MVP Goal:
+- What would a minimum viable product (MVP) look like for this project?
+A MVP for this project would look like creating a graph/plot based on the regression showcasing the way features have changed over the years.
