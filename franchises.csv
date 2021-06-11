@@ -1,0 +1,366 @@
+,Title,Distributor,Runtime,Rating,Action,Adventure,Biography,Comedy,Crime,Documentary,Drama,Family,History,Horror,Music,Mystery,Romance,Sport,Thriller,War,Western,Budget,Domestic_Gross
+0,Avengers: Endgame,Walt Disney Studios Motion Pictures,181.0,PG-13,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,400000000,858373000
+1,Avengers: Infinity War,Walt Disney Studios Motion Pictures,149.0,PG-13,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,300000000,678815482
+2,The Avengers,Walt Disney Studios Motion Pictures,143.0,PG-13,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,225000000,623357910
+3,The Avengers,Walt Disney Studios Motion Pictures,143.0,PG-13,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,60000000,23385416
+4,Avengers: Age of Ultron,Walt Disney Studios Motion Pictures,141.0,PG-13,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,365000000,459005868
+5,Captain Marvel,Walt Disney Studios Motion Pictures,123.0,PG-13,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,175000000,426829839
+6,Captain America: Civil War,Walt Disney Studios Motion Pictures,147.0,PG-13,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,250000000,408084349
+7,Thor: Ragnarok,Walt Disney Studios Motion Pictures,130.0,PG-13,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,180000000,315058289
+8,Iron Man 2,Paramount Pictures,124.0,PG-13,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,170000000,312433331
+9,Captain America: The Winter Soldier,Walt Disney Studios Motion Pictures,136.0,PG-13,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,170000000,259746958
+10,Doctor Strange,Walt Disney Studios Motion Pictures,115.0,PG-13,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,165000000,232641920
+11,Thor: The Dark World,Walt Disney Studios Motion Pictures,112.0,PG-13,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,150000000,206362140
+12,Thor,Paramount Pictures,115.0,PG-13,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,150000000,181030624
+13,Captain America: The First Avenger,Paramount Pictures,124.0,PG-13,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,140000000,176654505
+14,The Incredible Hulk,Universal Pictures,112.0,PG-13,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,137500000,134806913
+15,Rogue One: A Star Wars Story,Walt Disney Studios Motion Pictures,133.0,PG-13,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,200000000,532177324
+16,Solo: A Star Wars Story,Walt Disney Studios Motion Pictures,135.0,PG-13,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,275000000,213767512
+17,The Lion King,Walt Disney Studios Motion Pictures,118.0,PG,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,260000000,543638043
+18,The Lion King,Walt Disney Studios Motion Pictures,118.0,PG,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,79300000,421785283
+19,The Lion King,Walt Disney Studios Motion Pictures,118.0,PG,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,260000000,543638043
+20,The Lion King,Walt Disney Studios Motion Pictures,118.0,PG,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,79300000,421785283
+21,The Jungle Book,Walt Disney Studios Motion Pictures,111.0,PG,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,175000000,364001123
+22,The Jungle Book,Walt Disney Studios Motion Pictures,111.0,PG,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,27000000,44342956
+23,The Jungle Book,Walt Disney Studios Motion Pictures,111.0,PG,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,175000000,364001123
+24,The Jungle Book,Walt Disney Studios Motion Pictures,111.0,PG,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,27000000,44342956
+25,Aladdin,Walt Disney Studios Motion Pictures,128.0,PG,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,182000000,355559216
+26,Aladdin,Walt Disney Studios Motion Pictures,128.0,PG,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,28000000,217350219
+27,Aladdin,Walt Disney Studios Motion Pictures,128.0,PG,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,182000000,355559216
+28,Aladdin,Walt Disney Studios Motion Pictures,128.0,PG,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,28000000,217350219
+29,Alice in Wonderland,Walt Disney Studios Motion Pictures,108.0,PG,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,200000000,334191110
+30,Alice in Wonderland,Walt Disney Studios Motion Pictures,108.0,PG,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,200000000,334191110
+31,Maleficent,Walt Disney Studios Motion Pictures,97.0,PG,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,180000000,241407328
+32,Oz the Great and Powerful,Walt Disney Studios Motion Pictures,130.0,PG,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,200000000,234770996
+33,Cinderella,Walt Disney Studios Motion Pictures,105.0,PG,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,95000000,201151353
+34,Cinderella,Walt Disney Studios Motion Pictures,105.0,PG,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,95000000,201151353
+35,Dumbo,Walt Disney Studios Motion Pictures,112.0,PG,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,170000000,114766307
+36,Dumbo,Walt Disney Studios Motion Pictures,112.0,PG,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,170000000,114766307
+37,Maleficent: Mistress of Evil,Walt Disney Studios Motion Pictures,119.0,PG,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,185000000,113929605
+38,Alice Through the Looking Glass,Walt Disney Studios Motion Pictures,113.0,PG,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,170000000,77042381
+39,Mulan,Walt Disney Studios Motion Pictures,115.0,PG-13,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,200000000,0
+40,Mulan,Walt Disney Studios Motion Pictures,115.0,PG-13,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,90000000,120620254
+41,Mulan,Walt Disney Studios Motion Pictures,115.0,PG-13,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,200000000,0
+42,Mulan,Walt Disney Studios Motion Pictures,115.0,PG-13,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,90000000,120620254
+43,Fantastic Beasts and Where to Find Them,Warner Bros.,132.0,PG-13,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,180000000,234037575
+44,Fantastic Beasts: The Crimes of Grindelwald,Warner Bros.,134.0,PG-13,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,200000000,159555901
+45,Deadpool,Twentieth Century Fox,108.0,R,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,58000000,363070709
+46,Deadpool 2,Twentieth Century Fox,119.0,R,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,110000000,324591735
+47,Logan,Twentieth Century Fox,137.0,R,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,127000000,226277068
+48,The Wolverine,Twentieth Century Fox,126.0,PG-13,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,115000000,132556852
+49,The Dark Knight Rises,Warner Bros.,164.0,PG-13,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,230000000,448139099
+50,Batman v Superman: Dawn of Justice,Warner Bros.,152.0,PG-13,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,263000000,330360194
+51,The Lego Batman Movie,Warner Bros.,104.0,PG,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,80000000,175750384
+52,Aquaman,Warner Bros.,143.0,PG-13,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,160000000,335061807
+53,Suicide Squad,Warner Bros.,123.0,PG-13,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,175000000,325100054
+54,Man of Steel,Warner Bros.,143.0,PG-13,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,225000000,291045518
+56,Shazam!,Warner Bros.,132.0,PG-13,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,85000000,140371656
+57,Wonder Woman 1984,Warner Bros.,151.0,PG-13,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,200000000,46530051
+58,Skyfall,ony Pictures Entertainment (SPE),143.0,PG-13,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,200000000,304360277
+59,Spectre,ony Pictures Entertainment (SPE),148.0,PG-13,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,300000000,200074175
+60,Quantum of Solace,ony Pictures Entertainment (SPE),106.0,PG-13,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,230000000,169368427
+61,Casino Royale,ony Pictures Entertainment (SPE),144.0,PG-13,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,102000000,167365000
+62,Die Another Day,Metro-Goldwyn-Mayer (MGM),133.0,PG-13,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,142000000,160942139
+63,Tomorrow Never Dies,Metro-Goldwyn-Mayer (MGM),119.0,PG-13,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,110000000,125304276
+70,Jurassic World: Fallen Kingdom,Universal Pictures,128.0,PG-13,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,170000000,417719760
+71,The Lost World: Jurassic Park,Universal Pictures,129.0,PG-13,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,75000000,229086679
+72,Jurassic Park III,Universal Pictures,92.0,PG-13,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,93000000,181166115
+73,The Hobbit: An Unexpected Journey,Warner Bros.,169.0,PG-13,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,200000000,303003568
+74,The Hobbit: The Desolation of Smaug,Warner Bros.,161.0,PG-13,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,250000000,258241522
+75,The Hobbit: The Battle of the Five Armies,Warner Bros.,144.0,PG-13,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,250000000,255119788
+76,Furious 7,Universal Pictures,137.0,PG-13,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,190000000,353007020
+77,The Fate of the Furious,Universal Pictures,136.0,PG-13,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,250000000,225764765
+78,Fast Five,Universal Pictures,130.0,PG-13,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,125000000,210031325
+80,Fast & Furious,Universal Pictures,107.0,PG-13,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,85000000,155064265
+81,The Fast and the Furious,Universal Pictures,106.0,PG-13,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,38000000,144512310
+82,2 Fast 2 Furious,Universal Pictures,107.0,PG-13,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,76000000,127120058
+83,The Fast and the Furious: Tokyo Drift,Universal Pictures,104.0,PG-13,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,85000000,62615510
+84,Transformers: Revenge of the Fallen,DreamWorks,149.0,PG-13,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,210000000,402111870
+85,Transformers: Dark of the Moon,DreamWorks,154.0,PG-13,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,195000000,352390543
+86,Transformers,DreamWorks,144.0,PG-13,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,151000000,319246193
+87,Transformers: Age of Extinction,Paramount Pictures,165.0,PG-13,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,210000000,245439076
+88,Transformers: The Last Knight,Paramount Pictures,154.0,PG-13,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,217000000,130168683
+89,Bumblebee,Paramount Pictures,114.0,PG-13,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,102000000,127195589
+90,Pirates of the Caribbean: On Stranger Tides,Walt Disney Studios Motion Pictures,137.0,PG-13,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,379000000,241071802
+91,Pirates of the Caribbean: Dead Men Tell No Tales,Walt Disney Studios Motion Pictures,129.0,PG-13,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,230000000,172558876
+92,The Hunger Games: Catching Fire,Lionsgat,146.0,PG-13,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,130000000,424668047
+93,The Hunger Games,Lionsgat,142.0,PG-13,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,80000000,408010692
+94,Shrek 2,DreamWorks Distribution,93.0,PG,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,70000000,441226247
+95,Shrek the Third,DreamWorks,93.0,PG,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,160000000,322719944
+96,Shrek,DreamWorks Distribution,90.0,PG,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,50000000,267655011
+97,Shrek Forever After,DreamWorks,93.0,PG,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,165000000,238736787
+98,Puss in Boots,DreamWorks,90.0,PG,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,130000000,149260504
+99,Star Trek,Paramount Pictures,127.0,PG-13,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,140000000,257730019
+100,Star Trek Into Darkness,Paramount Pictures,132.0,PG-13,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,190000000,228778661
+101,Star Trek Beyond,Paramount Pictures,122.0,PG-13,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,185000000,158848340
+102,Star Trek IV: The Voyage Home,Paramount Pictures,119.0,PG,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,24000000,109713132
+103,Star Trek: First Contact,Paramount Pictures,111.0,PG-13,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,46000000,92027888
+105,Star Trek: Generations,Paramount Pictures,118.0,PG,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,38000000,75671262
+106,Star Trek VI: The Undiscovered Country,Paramount Pictures,110.0,PG,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27000000,74888996
+107,Star Trek: Insurrection,Paramount Pictures,103.0,PG,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,70000000,70187658
+108,Star Trek: Nemesis,Paramount Pictures,116.0,PG-13,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,60000000,43254409
+109,The Twilight Saga: Eclipse,ummit Entertainment,124.0,PG-13,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,68000000,300531751
+110,The Twilight Saga: New Moon,ummit Entertainment,130.0,PG-13,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,50000000,296623634
+111,Twilight,ummit Entertainment,122.0,PG-13,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,37000000,192769854
+112,Twilight,ummit Entertainment,122.0,PG-13,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,20000000,15055091
+113,Toy Story 4,Walt Disney Studios Motion Pictures,100.0,G,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,200000000,434038008
+116,Despicable Me 2,Universal Pictures,98.0,PG,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,76000000,368065385
+117,Minions,Universal Pictures,91.0,PG,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,74000000,336045770
+118,Despicable Me 3,Universal Pictures,89.0,PG,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,75000000,264624300
+119,Despicable Me,Universal Pictures,95.0,PG,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,69000000,251513985
+120,Mission: Impossible,Paramount Pictures,147.0,PG-13,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,80000000,180981886
+121,Mission: Impossible,Paramount Pictures,132.0,PG-13,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,80000000,180981886
+122,Mission: Impossible,Paramount Pictures,131.0,PG-13,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,80000000,180981886
+123,Mission: Impossible III,Paramount Pictures,126.0,PG-13,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,150000000,133501348
+124,Superman Returns,Warner Bros.,154.0,PG-13,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,232000000,200120000
+125,Superman II,Warner Bros.,127.0,PG,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,54000000,108185706
+127,Indiana Jones and the Kingdom of the Crystal Skull,Paramount Pictures,122.0,PG-13,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,185000000,317101119
+128,Indiana Jones and the Last Crusade,Paramount Pictures,127.0,PG-13,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,48000000,197171806
+130,Frozen II,Walt Disney Studios Motion Pictures,103.0,PG,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,150000000,477373578
+131,Incredibles 2,Walt Disney Studios Motion Pictures,118.0,PG,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,200000000,608581744
+133,Finding Dory,Walt Disney Studios Motion Pictures,97.0,PG,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,200000000,486295561
+134,Jumanji: Welcome to the Jungle,ony Pictures Entertainment (SPE),119.0,PG-13,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,90000000,404508916
+135,Jumanji: The Next Level,ony Pictures Entertainment (SPE),123.0,PG-13,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,125000000,316831246
+136,Jumanji,ony Pictures Entertainment (SPE),104.0,PG,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,65000000,100458310
+137,The Bourne Ultimatum,Universal Pictures,115.0,PG-13,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,130000000,227471070
+138,The Bourne Supremacy,Universal Pictures,108.0,PG-13,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,85000000,176087450
+139,Jason Bourne,Universal Pictures,123.0,PG-13,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,120000000,162192920
+140,The Bourne Identity,Universal Pictures,119.0,PG-13,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,60000000,121468960
+141,The Bourne Legacy,Universal Pictures,135.0,PG-13,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,125000000,113203870
+142,Dawn of the Planet of the Apes,Twentieth Century Fox,130.0,PG-13,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,170000000,208545589
+143,Planet of the Apes,Twentieth Century Fox,112.0,G,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100000000,180011740
+144,Planet of the Apes,Twentieth Century Fox,112.0,G,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100000000,180011740
+145,Rise of the Planet of the Apes,Twentieth Century Fox,105.0,PG-13,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,93000000,176760185
+146,War for the Planet of the Apes,Twentieth Century Fox,140.0,PG-13,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,152000000,146880162
+147,Ice Age: Dawn of the Dinosaurs,Twentieth Century Fox,94.0,PG,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,90000000,196573705
+148,Ice Age: The Meltdown,Twentieth Century Fox,91.0,PG,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,75000000,195330621
+149,Ice Age,Twentieth Century Fox,81.0,PG,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,65000000,176387405
+150,Ice Age: Continental Drift,Twentieth Century Fox,88.0,PG,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,95000000,161321843
+151,Creed II,Metro-Goldwyn-Mayer (MGM),130.0,PG-13,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,50000000,115715889
+152,Creed,Warner Bros.,133.0,PG-13,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,37000000,109767581
+153,Rocky Balboa,Metro-Goldwyn-Mayer (MGM),102.0,PG,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,24000000,70269899
+154,Men in Black,ony Pictures Entertainment (SPE),98.0,PG-13,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,90000000,250690539
+155,Men in Black 3,ony Pictures Entertainment (SPE),106.0,PG-13,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,215000000,179020854
+156,Men in Black: International,ony Pictures Entertainment (SPE),114.0,PG-13,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,110000000,80001807
+157,Madagascar 3: Europe's Most Wanted,DreamWorks,95.0,PG,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,145000000,216391482
+158,Madagascar,DreamWorks Distribution,86.0,PG,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,75000000,193595521
+159,Madagascar: Escape 2 Africa,DreamWorks,89.0,PG,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,150000000,180174880
+160,Penguins of Madagascar,Twentieth Century Fox,92.0,PG,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,132000000,83350911
+161,Terminator 3: Rise of the Machines,Warner Bros.,109.0,R,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,170000000,150358296
+162,Terminator Salvation,Warner Bros.,115.0,PG-13,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,200000000,125322469
+163,Terminator: Dark Fate,Paramount Pictures,128.0,R,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,185000000,62253077
+164,Alvin and the Chipmunks,Twentieth Century Fox,92.0,PG,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,55000000,217326974
+165,The Hangover,Warner Bros.,100.0,R,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,35000000,277322503
+166,The Hangover Part II,Warner Bros.,102.0,R,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,80000000,254464305
+167,The Conjuring,Warner Bros.,112.0,R,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,20000000,137400141
+168,The Nun,Warner Bros.,96.0,R,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,22000000,117450119
+169,Annabelle Comes Home,Warner Bros.,106.0,R,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,27000000,74152591
+170,The Lego Movie,Warner Bros.,100.0,PG,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,60000000,257784718
+171,Meet the Fockers,Universal Pictures,115.0,PG-13,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,60000000,279167575
+172,Meet the Parents,Universal Pictures,108.0,PG-13,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,55000000,166225040
+173,Little Fockers,Universal Pictures,98.0,PG-13,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,100000000,148438600
+174,Prometheus,Twentieth Century Fox,124.0,R,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,125000000,126477084
+175,Alien: Covenant,Twentieth Century Fox,122.0,R,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,97000000,74262031
+176,Alien: Resurrection,Twentieth Century Fox,109.0,R,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,60000000,47795018
+177,The Matrix,Warner Bros.,136.0,R,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,65000000,173396389
+178,The Matrix Revolutions,Warner Bros.,129.0,R,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,150000000,139270910
+180,Cars 2,Walt Disney Studios Motion Pictures,106.0,G,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,200000000,191450875
+181,Cars 3,Walt Disney Studios Motion Pictures,102.0,G,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,175000000,152901115
+184,Teenage Mutant Ninja Turtles: Out of the Shadows,Paramount Pictures,112.0,PG-13,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,135000000,82051601
+185,TMNT,Warner Bros.,87.0,PG,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,35000000,54149098
+186,Kong: Skull Island,Warner Bros.,118.0,PG-13,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,185000000,168052812
+187,Godzilla: King of the Monsters,Warner Bros.,132.0,PG-13,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,170000000,110500138
+188,Godzilla vs. Kong,Warner Bros.,113.0,PG-13,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,155000000,99119000
+189,Ocean's Eleven,Warner Bros.,116.0,PG-13,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,85000000,183417150
+190,Ocean's Twelve,Warner Bros.,125.0,PG-13,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,110000000,125531634
+191,Ocean's Thirteen,Warner Bros.,122.0,PG-13,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,85000000,117144465
+192,Monsters University,Walt Disney Studios Motion Pictures,104.0,G,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,200000000,268488329
+193,How to Train Your Dragon,DreamWorks,98.0,PG,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,165000000,217581232
+194,How to Train Your Dragon 2,Twentieth Century Fox,102.0,PG,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,145000000,177002924
+195,How to Train Your Dragon: The Hidden World,Universal Pictures,104.0,PG,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,129000000,160799505
+196,The Mummy Returns,Universal Pictures,130.0,PG-13,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,98000000,202007640
+197,The Mummy,Universal Pictures,111.0,PG-13,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,195000000,80101125
+198,The Mummy,Universal Pictures,111.0,PG-13,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,80000000,155385488
+199,The Mummy,Universal Pictures,111.0,PG-13,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,195000000,80101125
+200,The Mummy,Universal Pictures,111.0,PG-13,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,80000000,155385488
+201,The Mummy: Tomb of the Dragon Emperor,Universal Pictures,112.0,PG-13,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,175000000,102491776
+202,The Scorpion King,Universal Pictures,92.0,PG-13,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,60000000,90580000
+207,Night at the Museum,Twentieth Century Fox,108.0,PG,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,110000000,250863268
+208,Night at the Museum: Battle of the Smithsonian,Twentieth Century Fox,105.0,PG,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,150000000,177243721
+209,Night at the Museum: Secret of the Tomb,Twentieth Century Fox,98.0,PG,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,127000000,113746621
+210,The Chronicles of Narnia: Prince Caspian,Walt Disney Studios Motion Pictures,150.0,PG,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,225000000,141621490
+211,The Secret Life of Pets,Universal Pictures,87.0,PG,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,75000000,368384330
+212,Kung Fu Panda,DreamWorks,92.0,PG,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,130000000,215434591
+213,Kung Fu Panda 2,DreamWorks,90.0,PG,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,150000000,165249063
+214,Kung Fu Panda 3,Twentieth Century Fox,95.0,PG,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,140000000,143528619
+215,Rush Hour 2,New Line Cinema,90.0,PG-13,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,90000000,226164286
+216,Rush Hour,New Line Cinema,98.0,PG-13,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,35000000,141186864
+217,Rush Hour 3,New Line Cinema,91.0,PG-13,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,180000000,140125968
+218,Live Free or Die Hard,Twentieth Century Fox,128.0,PG-13,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,110000000,134529403
+220,A Good Day to Die Hard,Twentieth Century Fox,98.0,R,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,92000000,67349198
+221,Clear and Present Danger,Paramount Pictures,141.0,PG-13,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,62000000,122012656
+223,The Sum of All Fears,Paramount Pictures,124.0,PG-13,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,68000000,118471320
+224,Patriot Games,Paramount Pictures,117.0,R,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,45000000,83287363
+225,Jack Ryan: Shadow Recruit,Paramount Pictures,105.0,PG-13,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,60000000,50577412
+227,Lethal Weapon 3,Warner Bros.,118.0,R,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,35000000,144731527
+228,Lethal Weapon 4,Warner Bros.,127.0,R,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,140000000,130444603
+229,Hotel Transylvania 2,ony Pictures Entertainment (SPE),89.0,PG,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,80000000,169700110
+230,Hotel Transylvania 3: Summer Vacation,ony Pictures Entertainment (SPE),97.0,PG,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,65000000,167500092
+231,Hotel Transylvania,ony Pictures Entertainment (SPE),91.0,PG,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,85000000,148313048
+232,Austin Powers in Goldmember,New Line Cinema,94.0,PG-13,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,63000000,213117789
+233,Austin Powers: The Spy Who Shagged Me,New Line Cinema,95.0,PG-13,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,35000000,206040085
+234,Austin Powers: International Man of Mystery,New Line Cinema,94.0,PG-13,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,18000000,53883989
+235,Scary Movie,Miramax,88.0,R,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,19000000,157019771
+236,Scary Movie 3,Dimension Films,84.0,PG-13,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,45000000,110000082
+237,Scary Movie 4,,83.0,PG-13,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,40000000,90710620
+238,Scary Movie 2,Miramax,83.0,R,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,45000000,71277420
+239,Scary Movie V,,88.0,PG-13,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,20000000,32015787
+241,Beverly Hills Cop III,Paramount Pictures,104.0,R,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,50000000,42586861
+242,Hannibal,Metro-Goldwyn-Mayer (MGM),131.0,R,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,87000000,165092266
+244,Red Dragon,Universal Pictures,124.0,R,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,78000000,92955420
+245,Hannibal Rising,,121.0,R,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,50000000,27669725
+248,Bad Boys II,ony Pictures Entertainment (SPE),147.0,R,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,130000000,138540870
+249,Bad Boys,ony Pictures Entertainment (SPE),119.0,R,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,23000000,65647413
+250,Independence Day,Twentieth Century Fox,145.0,PG-13,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,75000000,306169255
+252,American Pie 2,Universal Pictures,108.0,R,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,30000000,145096820
+253,American Wedding,Universal Pictures,96.0,R,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,55000000,104354205
+254,American Reunion,Universal Pictures,113.0,R,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,50000000,56758835
+255,Sherlock Holmes,Warner Bros.,128.0,PG-13,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,90000000,209028679
+256,Sherlock Holmes: A Game of Shadows,Warner Bros.,129.0,PG-13,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,125000000,186848418
+257,National Treasure,Walt Disney Studios Motion Pictures,131.0,PG,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,100000000,173005002
+258,The Da Vinci Code,ony Pictures Entertainment (SPE),149.0,PG-13,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,125000000,217536138
+259,Angels & Demons,ony Pictures Entertainment (SPE),138.0,PG-13,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,150000000,133375846
+260,Inferno,ony Pictures Entertainment (SPE),121.0,PG-13,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,75000000,34343574
+261,Freddy vs. Jason,New Line Cinema,97.0,R,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,25000000,82622655
+262,Fifty Shades of Grey,Universal Pictures,125.0,R,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,40000000,166167230
+263,Fifty Shades Darker,Universal Pictures,118.0,R,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,55000000,114434010
+264,Taken,Twentieth Century Fox,90.0,PG-13,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,25000000,145000989
+265,Taken 2,Twentieth Century Fox,92.0,PG-13,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,45000000,139854287
+266,Taken 3,Twentieth Century Fox,108.0,PG-13,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,48000000,89256424
+267,A Nightmare on Elm Street,New Line Cinema,91.0,R,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,35000000,63075011
+268,A Nightmare on Elm Street,New Line Cinema,91.0,R,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,35000000,63075011
+269,Pitch Perfect 2,Universal Pictures,115.0,PG-13,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,29000000,184296230
+270,Spy Kids,Miramax,88.0,PG,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,35000000,112692062
+271,Divergent,Lionsgat,139.0,PG-13,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,85000000,150947895
+272,The Divergent Series: Insurgent,Lionsgat,119.0,PG-13,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,110000000,130179072
+273,Glass,Universal Pictures,129.0,PG-13,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,20000000,111048468
+274,Unbreakable,Walt Disney Studios Motion Pictures,106.0,PG-13,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,73243106,94999143
+275,Fantastic Four,Twentieth Century Fox,100.0,PG-13,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,87500000,154696080
+276,Fantastic Four,Twentieth Century Fox,100.0,PG-13,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,87500000,154696080
+280,Rambo: Last Blood,Lionsgat,89.0,R,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,50000000,44819352
+281,Rambo,Lionsgat,92.0,R,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,47500000,42754105
+283,Scream 3,Dimension Films,116.0,R,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,40000000,89138076
+284,Scream 4,,111.0,R,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,40000000,38180928
+285,22 Jump Street,ony Pictures Entertainment (SPE),112.0,R,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,50000000,191719337
+286,21 Jump Street,ony Pictures Entertainment (SPE),109.0,R,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,42000000,138447667
+287,300,Warner Bros.,117.0,R,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,60000000,210614939
+288,300: Rise of an Empire,Warner Bros.,102.0,R,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,110000000,106580051
+290,Predators,Twentieth Century Fox,107.0,R,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40000000,52000688
+291,The Predator,Twentieth Century Fox,107.0,R,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,88000000,51024708
+292,Predator 2,Twentieth Century Fox,108.0,R,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,35000000,28317513
+293,John Wick,Lionsgat,101.0,R,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,30000000,43037835
+294,Ted,Universal Pictures,106.0,R,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,50000000,218665740
+295,Ted 2,Universal Pictures,115.0,R,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,68000000,81476385
+296,Grown Ups,ony Pictures Entertainment (SPE),102.0,PG-13,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,75000000,162001186
+297,Grown Ups 2,ony Pictures Entertainment (SPE),101.0,PG-13,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,80000000,133668525
+299,Vacation,Warner Bros.,99.0,R,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,31000000,58884188
+300,Rio,Twentieth Century Fox,96.0,PG,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,90000000,143619809
+301,Rio 2,Twentieth Century Fox,101.0,G,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,130000000,131538435
+302,Mary Poppins Returns,Walt Disney Studios Motion Pictures,130.0,PG,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,130000000,171958438
+303,G.I. Joe: The Rise of Cobra,Paramount Pictures,118.0,PG-13,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,175000000,150201498
+304,G.I. Joe: Retaliation,Paramount Pictures,110.0,PG-13,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,140000000,122523060
+306,Resident Evil: Afterlife,creen Gems,96.0,R,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,57500000,60128566
+307,Resident Evil: Apocalypse,creen Gems,94.0,R,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,50000000,50740078
+308,Resident Evil: Extinction,creen Gems,94.0,R,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,45000000,50648679
+309,Resident Evil: Retribution,creen Gems,95.0,R,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,65000000,42345531
+310,Resident Evil,creen Gems,100.0,R,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,35000000,40119709
+311,Resident Evil: The Final Chapter,creen Gems,107.0,R,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,40000000,26844692
+312,The Smurfs,ony Pictures Entertainment (SPE),103.0,PG,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,110000000,142614158
+313,The Final Destination,Warner Bros.,82.0,R,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,40000000,66477700
+314,Final Destination 3,New Line Cinema,93.0,R,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,25000000,54098051
+315,Final Destination,New Line Cinema,98.0,R,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,23000000,53302314
+316,Final Destination 2,New Line Cinema,90.0,R,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,26000000,46896664
+317,Final Destination 5,Warner Bros.,92.0,R,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,40000000,42587643
+318,Underworld: Awakening,creen Gems,88.0,R,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,70000000,62321039
+319,Underworld: Evolution,creen Gems,106.0,R,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,45000000,62318875
+320,Underworld,creen Gems,121.0,R,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,22000000,51970690
+321,Underworld: Blood Wars,creen Gems,91.0,R,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,35000000,30353973
+322,The Croods,Twentieth Century Fox,98.0,PG,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,135000000,187168425
+323,Cloudy with a Chance of Meatballs,ony Pictures Entertainment (SPE),90.0,PG,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,100000000,124870275
+324,Cloudy with a Chance of Meatballs 2,ony Pictures Entertainment (SPE),95.0,PG,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,78000000,119793567
+325,The Maze Runner,Twentieth Century Fox,113.0,PG-13,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,34000000,102427862
+326,Maze Runner: The Scorch Trials,Twentieth Century Fox,131.0,PG-13,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61000000,81697192
+327,Maze Runner: The Death Cure,Twentieth Century Fox,143.0,PG-13,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61000000,58032443
+328,Dumb and Dumber To,Universal Pictures,109.0,PG-13,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,40000000,86208010
+329,The Ring,DreamWorks Distribution,115.0,PG-13,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,48000000,129094024
+330,The Ring Two,DreamWorks Distribution,110.0,PG-13,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,50000000,75941727
+331,Olympus Has Fallen,FilmDistrict,119.0,R,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,70000000,98927592
+332,Angel Has Fallen,Lionsgat,121.0,R,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,40000000,69030436
+333,London Has Fallen,Focus Features,99.0,R,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,60000000,62524260
+334,Kingsman: The Secret Service,Twentieth Century Fox,129.0,R,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,94000000,128261724
+335,Kingsman: The Golden Circle,Twentieth Century Fox,141.0,R,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,104000000,100234838
+336,The Expendables,Lionsgat,103.0,R,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,82000000,103068524
+337,The Expendables 2,Lionsgat,103.0,R,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,100000000,85028192
+338,The Expendables 3,Lionsgat,126.0,PG-13,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,100000000,39322544
+339,Ride Along,Universal Pictures,99.0,PG-13,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,25000000,134202565
+340,Big Momma's House,Twentieth Century Fox,99.0,PG-13,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,33000000,117559438
+341,Paul Blart: Mall Cop,ony Pictures Entertainment (SPE),91.0,PG,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,26000000,146336178
+342,Naked Gun 33 1/3: The Final Insult,Paramount Pictures,83.0,PG-13,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,30000000,51041856
+343,xXx,Revolution Studios,124.0,PG-13,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,70000000,141930000
+344,xXx: Return of Xander Cage,Paramount Pictures,107.0,PG-13,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,85000000,44898413
+345,Christopher Robin,Walt Disney Studios Motion Pictures,104.0,PG,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,75000000,99215042
+346,Neighbors,Universal Pictures,97.0,R,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,18000000,150086800
+347,Neighbors 2: Sorority Rising,Universal Pictures,92.0,R,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,35000000,55340730
+349,Blade: Trinity,New Line Cinema,113.0,R,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,65000000,52397389
+350,Snow White and the Huntsman,Universal Pictures,127.0,PG-13,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,170000000,155136755
+351,The Equalizer 2,ony Pictures Entertainment (SPE),121.0,R,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,77000000,102084362
+352,The Equalizer,ony Pictures Entertainment (SPE),132.0,R,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,55000000,101530738
+354,Bad Moms,TX Entertainment,100.0,R,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,20000000,113257297
+355,Now You See Me,Lionsgat,115.0,PG-13,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,75000000,117723989
+356,Now You See Me 2,Lionsgat,129.0,PG-13,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,90000000,65075540
+357,The Amityville Horror,Metro-Goldwyn-Mayer (MGM),90.0,R,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,18500000,65233369
+360,The Omen,Twentieth Century Fox,110.0,R,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,25000000,54607383
+361,Pacific Rim,Warner Bros.,131.0,PG-13,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,190000000,101802906
+362,Pacific Rim: Uprising,Universal Pictures,111.0,PG-13,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,155000000,59874525
+363,Along Came a Spider,Paramount Pictures,104.0,R,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,28000000,74058698
+364,Kiss the Girls,Paramount Pictures,115.0,R,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,27000000,60527873
+370,Trolls,Twentieth Century Fox,92.0,PG,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,125000000,153707064
+371,Cloverfield,Paramount Pictures,85.0,PG-13,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,25000000,80048433
+372,Zombieland,ony Pictures Entertainment (SPE),88.0,R,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,23600000,75590286
+373,Zombieland: Double Tap,ony Pictures Entertainment (SPE),99.0,R,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,48000000,73118130
+374,RED 2,Lionsgat,116.0,PG-13,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,84000000,53262560
+375,The Chronicles of Riddick,Universal Pictures,119.0,R,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,120000000,57712751
+376,Riddick,Universal Pictures,119.0,R,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,38000000,42025135
+377,Pitch Black,USA Films,109.0,R,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,23000000,39235088
+378,Jack Reacher,Paramount Pictures,130.0,PG-13,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,60000000,80070736
+379,Jack Reacher: Never Go Back,Paramount Pictures,118.0,PG-13,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,60000000,58697076
+380,Bridget Jones's Diary,Miramax,97.0,R,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,25000000,71500556
+381,Power Rangers,Lionsgat,124.0,PG-13,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,120000000,85364450
+382,Goosebumps,ony Pictures Entertainment (SPE),103.0,PG,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,58000000,80069458
+383,Blade Runner 2049,Warner Bros.,164.0,R,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,185000000,92054159
+384,The Girl with the Dragon Tattoo,Music Box Films,152.0,R,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,90000000,102515793
+385,The Girl with the Dragon Tattoo,Music Box Films,152.0,R,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,90000000,102515793
+386,Paddington,,95.0,PG,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,55000000,76223578
+387,Transporter 3,Lionsgat,104.0,PG-13,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,40000000,31715062
+388,The Transporter,Twentieth Century Fox,92.0,PG-13,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,21000000,25296447
+389,Free Willy,Warner Bros.,112.0,PG,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,20000000,77698625
+390,Jay and Silent Bob Strike Back,Miramax,104.0,R,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,22000000,30059386
+391,Murder on the Orient Express,Twentieth Century Fox,114.0,PG-13,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,55000000,102826543
+392,Psycho,Universal Pictures,105.0,R,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,20000000,21541218
+393,Sicario: Day of the Soldado,ony Pictures Entertainment (SPE),122.0,R,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,35000000,50065850
+394,Sicario,Lionsgat,121.0,R,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,30000000,46889293
+395,Conan the Barbarian,Lionsgat,113.0,R,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,90000000,21295021
+396,Conan the Barbarian,Lionsgat,113.0,R,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20000000,38264085
+397,Conan the Barbarian,Lionsgat,113.0,R,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,90000000,21295021
+398,Conan the Barbarian,Lionsgat,113.0,R,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20000000,38264085
+400,Space Jam,Warner Bros.,88.0,PG,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,80000000,90463534
+401,Sin City,Dimension Films,124.0,R,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,40000000,74103820
+402,Once Upon a Time in Mexico,ony Pictures Entertainment (SPE),102.0,R,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,29000000,56330657
+404,Doctor Sleep,Warner Bros.,152.0,R,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,45000000,31581712
+405,Zoolander,Paramount Pictures,90.0,PG-13,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,28000000,45172250
+406,Zoolander 2,Paramount Pictures,101.0,PG-13,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,50000000,28848693
+407,The World's End,Focus Features,109.0,R,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,20000000,26004851
+408,Hot Tub Time Machine,Metro-Goldwyn-Mayer (MGM),101.0,R,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,36000000,50269859
+409,Tomb Raider,Warner Bros.,119.0,PG-13,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,90000000,58250803
+410,Machete Kills,Open Road Films (II),107.0,R,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,20000000,8008161
+411,Mechanic: Resurrection,Lionsgat,98.0,R,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,40000000,21218403
